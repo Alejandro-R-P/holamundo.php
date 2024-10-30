@@ -1,4 +1,5 @@
 <!-- Ejercicio 3 Bloques condicionales por Alejandro Ruiz Polo -->
+<!-- Crea un programa en php con tres variables aleatorias $n1,$n2,$n3. El programa mostrará sus valores y posteriormente las mostrará los números ordenados de mayor a menor. -->
 <!-- Fecha 24/10/2024 -->
 <?php
 $n1 = rand(-10, 10);
