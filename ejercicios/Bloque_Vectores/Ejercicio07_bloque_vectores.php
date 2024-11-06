@@ -12,6 +12,6 @@ $paises["Italia"] = "Roma";
 
 // Mostrar el array completo
 foreach ($paises as $pais => $capital) {
-    echo "País: $pais, Capital: $capital <br>";
+    echo "País: $pais, Capital: $capital. <br>";
 }
 ?>

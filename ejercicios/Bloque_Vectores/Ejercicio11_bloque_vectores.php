@@ -3,7 +3,7 @@
 <!-- Fecha 06/11/2024 -->
 <?php
 $productos = array(
-    "Patatas" => 150,
+    "Patatas" => "150 €",
     "Bicicletas" => 190,
     "Pulsera" => 10,
     "Ordenador" => 200,

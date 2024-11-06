@@ -3,6 +3,7 @@
 <!-- Fecha 31/10/2024 -->
 <?php
 $deportes = array("Futbol", "Baloncesto", "Rugbi", "Natacion", "Boxeo", "Ajedrez", "Lucha libre");
+
 asort($deportes);
 foreach ($deportes as $x) {
     echo "$x <br>";

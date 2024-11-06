@@ -1,0 +1,1 @@
+array nombre y notas dar 5 valor mostrar juan tiene una note de 4 y 6 y su media es 5

@@ -3,12 +3,13 @@
 <!-- Fecha 31/10/2024 -->
 <?php
 $personas = array(
-    "Juan" => 25,
+    "Juan" => 28,
     "Manu" => 42,
     "Paco" => 56,
     "Julio" => 37,
     "Marcos" => 7,
 );
+
 foreach ($personas as $x => $y) {
     echo "$x: $y <br>";
 }
