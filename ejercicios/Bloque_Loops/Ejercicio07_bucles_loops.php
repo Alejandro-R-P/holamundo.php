@@ -1,7 +1,7 @@
 <?php
 
 // Asignamos un valor a la variable $n1
-$n1 = 3; // Cambia este valor por el que desees
+$n1 = 58; // Cambia este valor por el que desees
 
 // Contador de divisores
 $contadorDivisores = 0;

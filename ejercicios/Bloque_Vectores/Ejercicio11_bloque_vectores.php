@@ -4,10 +4,10 @@
 <?php
 $productos = array(
     "Patatas" => "150 €",
-    "Bicicletas" => 190,
-    "Pulsera" => 10,
-    "Ordenador" => 200,
-    "Volante" => 110
+    "Bicicletas" => "190 €",
+    "Pulsera" => "10 €",
+    "Ordenador" => "200 €",
+    "Volante" => "110 €"
 );
 
 // Ordenar el array por valor (precio) en orden ascendente
